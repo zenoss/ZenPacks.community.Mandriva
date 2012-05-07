@@ -6,7 +6,7 @@
 NAME = "ZenPacks.community.Mandriva"
 VERSION = "1.0"
 AUTHOR = "Daniel Dario Morales Salas"
-LICENSE = "GPL v3"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Mandriva']
 INSTALL_REQUIRES = ['ZenPacks.community.LinuxMonitorAddOn>=1.0']
